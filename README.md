@@ -10,6 +10,11 @@ This project demonstrates collaboration, system design, and development skills i
 ## Project Scope
 This project was developed for academic learning purposes, showcasing teamwork and technical skills in full-stack web development.
 
+## Members
+- Hayden Huan Kee Jiun
+- Eddy Koh Wei Hen
+- Liow Chee Suan
+
 ### Key Features
 - 🔑 **User Authentication** – Secure login and registration system.  
 - 📝 **Task Management** – Create, update, and delete tasks.  
